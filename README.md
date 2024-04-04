@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [BloodLytics](https://github.com/krishnaNallasingu/BloodLytics)
 
-- 🌱 I’m currently learning **ML, MERN, and AWS at IIIT-H**
+- 🌱 I’m currently learning **ML, MERN, D3.js and AWS at IIIT-H**
 
-- 👯 I’m looking to collaborate on **on projects**
+- 👯 I’m looking to collaborate **on projects**
 
 - 💬 Ask me about **Fronted, DBMS, Competitive Coding**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jknallasingu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jknallasingu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jagankrishna-nallasingu-0725b4268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagankrishna-nallasingu-0725b4268/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jagankrishna-nallasingu-0725b4268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagankrishna-nallasingu-0725b4268/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100014993737133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014993737133" height="30" width="40" /></a>
 <a href="https://instagram.com/https.jagan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/https.jagan/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@iaminwar...1536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iaminwar...1536" height="30" width="40" /></a>
