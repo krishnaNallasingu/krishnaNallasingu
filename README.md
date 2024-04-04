@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jagankrishna Nallasingu</h1>
-<h3 align="center">A passionate Developer, Coder from **Hyderabad, India**</h3>
+<h3 align="center">A passionate Developer, Competetive Coder from Hyderabad, India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnanallasingu&label=Profile%20views&color=0e75b6&style=flat" alt="krishnanallasingu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jknallasingu" target="blank"><img src="https://img.shields.io/twitter/follow/jknallasingu?logo=twitter&style=for-the-badge" alt="jknallasingu" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate **on projects**
 
-- 💬 Ask me about **Fronted, DBMS, Competitive Coding**
+- 💬 Ask me about **Fronted, DBMS, Competitive Programing, Python Modules**
 
 - 📫 How to reach me **jagankrishna369@gmail.com**
 
