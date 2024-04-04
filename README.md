@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/jknallasingu" target="blank"><img src="https://img.shields.io/twitter/follow/jknallasingu?logo=twitter&style=for-the-badge" alt="jknallasingu" /></a> </p>
 
+- Undergraduate Computer Science Student at [IIIT-H](https://iiit.ac.in) 
+
 - 🔭 I’m currently working on [BloodLytics](https://github.com/krishnaNallasingu/BloodLytics)
 
-- 🌱 I’m currently learning **ML, MERN, D3.js and AWS at IIIT-H**
+- 🌱 I’m currently learning **ML, MERN, D3.js and AWS**
 
 - 👯 I’m looking to collaborate **on projects**
 
-- 💬 Ask me about **Fronted, DBMS, Competitive Programing, Python Modules**
+- 💬 Ask me about **Fronted, DBMS, Competitive Programing, Data Structures & Algorithms, Python Modules**
 
-- 📫 How to reach me **jagankrishna369@gmail.com**
+- 📫 How to reach me **jagankrishna369@gmail.com** (Or) [Linkedin](https://www.linkedin.com/in/jagankrishna-nallasingu-0725b4268)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +25,7 @@
 <a href="https://instagram.com/https.jagan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/https.jagan/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@iaminwar...1536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iaminwar...1536" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/iam_krishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iam_krishna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/jagankrishna369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jagankrishna369" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishna2005-_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/krishna2005-_/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jagankrishna369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jagankrishna369" height="30" width="40" /></a>
 <a href="https://discord.gg/jagankrishna_01336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jagankrishna_01336" height="30" width="40" /></a>
 </p>
 
