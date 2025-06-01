@@ -7,13 +7,13 @@
 
 - Undergraduate Computer Science Student at [IIIT-H](https://iiit.ac.in) 
 
-- 🔭 I’m currently working on [BloodLytics](https://github.com/krishnaNallasingu/BloodLytics)
+- 🔭 I’m currently working on [Video-Annotation-Tool](https://github.com/krishnaNallasingu/BloodLytics)
 
-- 🌱 I’m currently learning **ML, MERN, D3.js and AWS**
+- 🌱 I’m currently learning **ML, MERN, Advanced Algorithms and Cloud Plotforms**
 
 - 👯 I’m looking to collaborate **on projects**
 
-- 💬 Ask me about **Fronted, DBMS, Competitive Programing, Data Structures & Algorithms, Python Modules**
+- 💬 Ask me about **Full Stack Concepts, DBMS, Competitive Programing, Data Structures & Algorithms, Python Modules**
 
 - 📫 How to reach me **jagankrishna369@gmail.com** (Or) [Linkedin](https://www.linkedin.com/in/jagankrishna-nallasingu-0725b4268)
 
