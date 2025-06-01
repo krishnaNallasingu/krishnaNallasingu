@@ -7,7 +7,7 @@
 
 - Undergraduate Computer Science Student at [IIIT-H](https://iiit.ac.in) 
 
-- 🔭 I’m currently working on [Video-Annotation-Tool](https://github.com/krishnaNallasingu/BloodLytics)
+- 🔭 I’m currently working on [Video-Annotation-Tool](https://github.com/krishnaNallasingu/Video-Annotation-Tool)
 
 - 🌱 I’m currently learning **ML, MERN, Advanced Algorithms and Cloud Plotforms**
 
@@ -25,7 +25,7 @@
 <a href="https://instagram.com/https.jagan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/https.jagan/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@iaminwar...1536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iaminwar...1536" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/iam_krishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iam_krishna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishna2005-_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/krishna2005-_/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/krishna2005-_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Jagankrishna_2005/" height="30" width="40" /></a>
 <a href="https://discord.gg/jagankrishna_01336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jagankrishna_01336" height="30" width="40" /></a>
 </p>
 
